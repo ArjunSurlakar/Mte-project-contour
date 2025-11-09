@@ -1,9 +1,11 @@
 streamlit==1.33.0
 git+https://github.com/nhorvath/Pyrebase4.git
+
 requests==2.31.0
 urllib3==1.26.15
 pandas==2.0.3
 plotly==5.18.0
 numpy==1.24.4
 streamlit-autorefresh==0.1.0
+
 
