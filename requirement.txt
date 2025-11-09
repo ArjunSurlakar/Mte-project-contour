@@ -1,0 +1,7 @@
+streamlit
+pyrebase4
+pandas
+plotly
+numpy
+streamlit-autorefresh
+requests_toolbelt
