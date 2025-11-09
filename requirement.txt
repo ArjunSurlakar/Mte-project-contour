@@ -1,7 +1,10 @@
 streamlit
-pyrebase
+pyrebase4
 pandas
 plotly
 numpy
 streamlit-autorefresh
+dnspython
 requests_toolbelt
+
+
