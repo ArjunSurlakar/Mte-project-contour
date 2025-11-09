@@ -1,5 +1,5 @@
 streamlit
-pyrebase4
+pyrebase
 pandas
 plotly
 numpy
